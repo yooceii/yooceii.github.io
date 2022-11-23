@@ -11,7 +11,7 @@ I'm a software engineer at Google, Previously, I was a research intern at NYU Ga
 
 Publications
 ------
-Y Yao\*; **C Ye**\*; J He; GF Elsayed. Teacher-generated pseudo human spatial-attention labels boost contrastive learning models. *SVRHM 2022 Workshop@ NeurIPS*. [Paper](https://openreview.net/pdf?id=fuWVySKLM8C). *Equal Contribution.
+Y. Yao\*; **C. Ye**\*; J. He; GF. Elsayed. Teacher-generated pseudo human spatial-attention labels boost contrastive learning models. *SVRHM 2022 Workshop@ NeurIPS*. [Paper](https://openreview.net/pdf?id=fuWVySKLM8C). *Equal Contribution.
 
 H. Shengyi; R.F.J. Dossa; **C. Ye** and J. Braga. CleanRL: High-quality Single-file Implementations of Deep Reinforcement Learning Algorithms. *Journal of Machine Learning Research (JMLR)*, 2022. [Paper](https://www.jmlr.org/papers/volume23/21-1342/21-1342.pdf), [Code](https://github.com/vwxyzjn/cleanrl)
 
