@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a software engineer at Google, Previously, I was a research intern at NYU Game Innovation Lab working with [Prof. Julian Togelius](http://julian.togelius.com/). I obtained my master degree from NYU. My main research interest is neuroscience and psychology inspired RL, this includes dynamic reward function, imitation learning. I'm also interested in causal representation learning in recent days. You can check my [CV](/files/CV.pdf) and [Resume](/files/Resume.pdf)
+I'm a software engineer at Google, Previously, I was a research intern at NYU Game Innovation Lab working with [Prof. Julian Togelius](http://julian.togelius.com/). I obtained my master degree from NYU. My main research interest is neuroscience and psychology inspired RL, this includes dynamic reward function, imitation learning. I'm also interested in causal representation learning in recent days. You can check my CV [here](/files/CV.pdf).
 
 Publications
 ------
