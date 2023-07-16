@@ -11,7 +11,7 @@ I'm a software engineer at Google, Previously, I was a research intern at NYU Ga
 
 Publications
 ------
-Y. Yao\*; **C. Ye**\*; J. He; GF. Elsayed. Teacher-Generated Spatial-Attention Labels Boost Robustness and Accuracy of Contrastive Models. *CVPR 2023*. [Paper]([https://openreview.net/pdf?id=fuWVySKLM8C](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Teacher-Generated_Spatial-Attention_Labels_Boost_Robustness_and_Accuracy_of_Contrastive_Models_CVPR_2023_paper.pdf)), [Presentation](https://www.youtube.com/watch?v=WyC1zfqbrgU). *Equal Contribution.
+Y. Yao\*; **C. Ye**\*; J. He; GF. Elsayed. Teacher-Generated Spatial-Attention Labels Boost Robustness and Accuracy of Contrastive Models. *CVPR 2023*. [Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Yao_Teacher-Generated_Spatial-Attention_Labels_Boost_Robustness_and_Accuracy_of_Contrastive_Models_CVPR_2023_paper.pdf), [Presentation](https://www.youtube.com/watch?v=WyC1zfqbrgU). *Equal Contribution.
 
 Y. Yao\*; **C. Ye**\*; J. He; GF. Elsayed. Teacher-generated pseudo human spatial-attention labels boost contrastive learning models. *SVRHM 2022 Workshop@ NeurIPS*. [Paper](https://openreview.net/pdf?id=fuWVySKLM8C). *Equal Contribution.
 
